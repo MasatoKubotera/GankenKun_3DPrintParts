@@ -10,6 +10,8 @@
 
 |Name|Parameter|
 |---|---|
+|**Initial Layer Hight [mm]**<br>初期レイヤー高さ|0.3|
+|**Initial Layer Line Width [%]**<br>|125|
 |**Printing Temperature [℃]**<br>印刷温度|190|
 |**Bulid Plate Temperature [℃]**<br>ビルドプレート温度|0 ~ 60|
 |**Print Speed [mm/s]**<br>印刷速度|30|
@@ -45,7 +47,7 @@
     |Parameter Name|Parameter|
     |---|---|
     |**Infill Density [%]**<br>インフィル密度|100|
-    |**LayerHight [mm]**<br>レイヤー高さ|0.2|
+    |**Layer Hight [mm]**<br>レイヤー高さ|0.2|
     |**Bulid Plate Temperature [℃]**<br>ビルドプレート温度|0|
     |**Build Plate Adhesion Type**<br>ビルドプレート接着タイプ|Brim|
     
@@ -97,7 +99,7 @@
     |Parameter Name|Parameter|
     |---|---|
     |**Infill Density [%]**<br>インフィル密度|100|
-    |**LayerHight [mm]**<br>レイヤー高さ|0.2|
+    |**Layer Hight [mm]**<br>レイヤー高さ|0.2|
     |**Bulid Plate Temperature [℃]**<br>ビルドプレート温度|60|
     |**Build Plate Adhesion Type**<br>ビルドプレート接着タイプ|Brim|
 
@@ -140,7 +142,7 @@
     |Parameter Name|Parameter|
     |---|---|
     |**Infill Density [%]**<br>インフィル密度|100|
-    |**LayerHight [mm]**<br>レイヤー高さ|0.1|
+    |**Layer Hight [mm]**<br>レイヤー高さ|0.1|
     |**Bulid Plate Temperature [℃]**<br>ビルドプレート温度|60|
     |**Build Plate Adhesion Type**<br>ビルドプレート接着タイプ|Skirt|
 
@@ -191,7 +193,7 @@
     |Parameter Name|Parameter|
     |---|---|
     |**Infill Density [%]**<br>インフィル密度|100|
-    |**LayerHight [mm]**<br>レイヤー高さ|0.2|
+    |**Layer Hight [mm]**<br>レイヤー高さ|0.2|
     |**Bulid Plate Temperature [℃]**<br>ビルドプレート温度|60|
     |**Build Plate Adhesion Type**<br>ビルドプレート接着タイプ|Skirt|
 
@@ -234,7 +236,7 @@
     |Parameter Name|Parameter|
     |---|---|
     |**Infill Density [%]**<br>インフィル密度|15|
-    |**LayerHight [mm]**<br>レイヤー高さ|0.2|
+    |**Layer Hight [mm]**<br>レイヤー高さ|0.2|
     |**Bulid Plate Temperature [℃]**<br>ビルドプレート温度|60|
     |**Build Plate Adhesion Type**<br>ビルドプレート接着タイプ|Skirt|
 
