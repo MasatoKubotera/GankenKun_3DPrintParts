@@ -2,9 +2,9 @@
 ---
 ## Temp calibration tower for TPU
 
-<img src="image/SmartTemperatureTower_TPU_185-235.png" width="320px">
+<img src="TPU/image/SmartTemperatureTower_TPU_185-235.png" width="320px">
 
-<img src="image/layout.png" width="320px">
+<img src="TPU/image/layout.png" width="320px">
 
 - ### Temp range
   185~235℃
@@ -12,13 +12,13 @@
 - ### Files
 
   - #### STL
-    - [SmartTemperatureTower_TPU_185-235.stl](SmartTemperatureTower_TPU_185-235.stl)
+    - [SmartTemperatureTower_TPU_185-235.stl](TPU/SmartTemperatureTower_TPU_185-235.stl)
 
   - #### Gcode
-    - []()
+    - [TowerTPU_185-235.gcode](TPU/TowerTPU_185-235.gcode)
 
   - #### Profile
-    - []()
+    - [Temp_Tower_185-235.curaprofile](TPU/Temp_Tower_185-235.curaprofile)
 ---
 ## How to change the temperature for each layer
 1.  拡張子→後処理→G-codeを修正を選択．
