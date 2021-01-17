@@ -13,9 +13,12 @@
 - ### Create 3D model
   - #### [AUTODESK INVENTOR](https://www.autodesk.co.jp/products/inventor)
 
-- ### 3D Print
+- ### 3D Printing
   - #### [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura)
 
+- ### STL data editing
+  - #### [blender](https://www.blender.org/)
+  
 ---
 ## Folder / File
 - ### [PLA](/PLA)
