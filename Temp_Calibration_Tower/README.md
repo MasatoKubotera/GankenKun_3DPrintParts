@@ -28,6 +28,10 @@
 
   - #### Profile
     - [Temp_Tower_185-235.curaprofile](TPU/Temp_Tower_185-235.curaprofile)
+
+-   ### Estimated print time
+    -   4 h 2 m
+
 ---
 ## How to change the temperature for each layer
 1.  拡張子→後処理→G-codeを修正を選択．
